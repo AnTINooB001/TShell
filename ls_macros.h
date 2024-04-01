@@ -1,0 +1,15 @@
+//
+// Created by antinoob on 31.03.24.
+//
+
+#ifndef CONSOLESH_LS_MACROS_H
+#define CONSOLESH_LS_MACROS_H
+
+#define TLS_ALL   0b0000000011
+#define TLS_DIR   0b0000001100
+#define TLS_FILE  0b0000110000
+#define TLS_NSORT 0b0011000000
+#define TLS_HELP  0b1100000000
+
+
+#endif //CONSOLESH_LS_MACROS_H
